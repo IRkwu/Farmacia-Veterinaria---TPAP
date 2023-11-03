@@ -1,0 +1,4 @@
+ID,Nombres,Apellidos,Genero,Fecha de Nacimiento,Correo,Contrase�a,RUT,Telefono,Domicilio,Cargo
+2266,Alvaro Gonzalo,Ramos Andler,Masculino,30/07/2003,a@a.com,1234,21.354.784-4,912341234,Calle 123,Gerente
+8424,Juan Felip�,P�rez Gonzales,Masculino,15/03/1999,juanperez@gmail.com,pass,20.345.678-9,915426578,Calle Ficticia 123,Vendedor
+1011,Admin,Acceso Total,Masculino,01/01/2000,123,123,12.345.678-9,123456789,test,Gerente

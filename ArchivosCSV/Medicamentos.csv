@@ -1,0 +1,49 @@
+ID,Nombre,Precio,Stock,Descripcion,Stock Lote 1,Caducidad Lote 1,Stock Lote 2,Caducidad Lote 2, Tipo de Medicamento,Fecha de Entrega
+004,Lomper,1200,47,Medicamento antiparasitario para perros y gatos,6,30/06/2023,41,30/10/2023,Nacional,No Aplica
+032,Florfenicol,3000,14,Medicamento antibiotico para aves de corral,14,28/12/2023,0,,Nacional,No Aplica
+003,Fenobarbital,5000,6,Medicamento antiepileptico para perros y gatos,6,29/08/2023,0,,Nacional,No Aplica
+002,Meloxicam,2500,42,Medicamento antiinflamatorio no esteroideo para perros y gatos,22,30/06/2023,20,19/09/2023,Nacional,No Aplica
+011,Amoxicilina,1800,59,Medicamento antibiotico para perros y gatos,19,15/08/2023,40,15/01/2024,Nacional,No Aplica
+026,Milteforan,20000,7,Medicamento para leishmaniasis en perros,7,30/07/2023,0,,Nacional,No Aplica
+021,Clorfeniramina,1400,73,Medicamento antihistaminico para perros y gatos,14,31/05/2023,59,30/10/2023,Nacional,No Aplica
+039,Melengestrol,20000,9,Medicamento hormonal para ganado y cerdos,3,25/08/2023,6,25/12/2023,Nacional,No Aplica
+012,Ciprofloxacina,2500,53,Medicamento antibiotico para perros y gatos,5,23/06/2023,48,23/11/2023,Nacional,No Aplica
+040,Butafosfan,1800,46,Medicamento para mejorar la funcion hepatica en caballos y ganado,16,25/06/2023,30,20/10/2023,Nacional,No Aplica
+014,Praziquantel,1600,69,Medicamento antiparasitario para perros y gatos,28,31/05/2023,41,31/12/2023,Nacional,No Aplica
+045,Trimetoprim-sulfametoxazol,2000,46,Medicamento antibacteriano para aves y ganado,8,05/09/2023,38,05/01/2024,Nacional,No Aplica
+033,Tiamulina,4000,18,Medicamento antibacteriano para cerdos y aves,18,20/08/2023,0,,Nacional,No Aplica
+029,Selegilina,7500,16,Medicamento para tratar la enfermedad de Parkinson en perros,6,15/07/2023,10,15/10/2023,Nacional,No Aplica
+043,Ceftiofur,1500,43,Medicamento antibacteriano para cerdos y vacas,13,24/06/2023,30,24/12/2023,Nacional,No Aplica
+028,Alprazolam,4000,24,Medicamento ansiolitico para perros y gatos,4,30/06/2023,20,30/10/2023,Nacional,No Aplica
+035,Sulfadiazina,1800,79,Medicamento antibacteriano para caballos,29,15/07/2023,50,15/11/2023,Nacional,No Aplica
+019,Clavulanato de Potasio,2700,49,Medicamento antibiotico para perros y gatos,12,30/05/2023,37,30/07/2023,Nacional,No Aplica
+044,Altrenogest,10000,8,Medicamento hormonal para cerdas y yeguas,8,21/06/2023,,,Nacional,No Aplica
+031,Enrofloxacina,1500,49,Medicamento antibiotico para animales de granja,19,28/07/2023,30,20/11/2023,Nacional,No Aplica
+041,Enfuvirtida,8000,9,Medicamento antiviral para peces,9,01/02/2024,0,,Nacional,No Aplica
+013,Ketoprofeno,2300,44,Medicamento antiinflamatorio no esteroideo para perros y gatos,9,29/08/2023,35,29/11/2023,Nacional,No Aplica
+010,Fluconazol,3000,69,Medicamento antifungico para perros y gatos,29,30/05/2023,40,30/08/2023,Nacional,No Aplica
+034,Ivermectina,2500,58,Medicamento antiparasitario para ganado y ovejas,18,21/06/2023,40,21/09/2023,Nacional,No Aplica
+016,Tramadol,2200,54,Medicamento analgesico para perros y gatos,13,30/08/2023,41,30/12/2023,Nacional,No Aplica
+005,Metronidazol,1800,58,Medicamento antibiotico y antiparasitario para perros y gatos,23,20/07/2023,35,20/09/2023,Nacional,No Aplica
+008,Levotiroxina,15000,0,Medicamento hormonal para perros y gatos,0,,0,,Nacional,No Aplica
+020,Metoclopramida,1900,63,Medicamento gastroproquinetico para perros y gatos,5,05/08/2023,58,05/12/2023,Nacional,No Aplica
+007,Prednisona,3500,23,Medicamento esteroideo para perros y gatos,2,27/06/2023,21,27/10/2023,Nacional,No Aplica
+042,Levamisol,2500,29,Medicamento antiparasitario para caballos y ovejas,12,30/07/2023,17,30/11/2023,Nacional,No Aplica
+030,Difenhidramina,1200,91,Medicamento antihistaminico para perros y gatos,24,13/05/2023,67,17/08/2023,Nacional,No Aplica
+009,Cisaprida,5000,15,Medicamento gastroproquinetico para perros y gatos,2,30/05/2023,13,30/08/2023,Nacional,No Aplica
+036,Boldenona,50000,4,Medicamento hormonal para ganado,4,26/12/2023,0,,Nacional,No Aplica
+023,Benazepril,3500,30,Medicamento antihipertensivo para perros y gatos,30,13/07/2023,0,,Nacional,No Aplica
+017,Bromuro de Potasio,4500,29,Medicamento antiepileptico para perros y gatos,3,29/06/2023,26,29/10/2023,Nacional,No Aplica
+022,Trilostano,18000,10,Medicamento hormonal para perros y gatos con enfermedad de Cushing,1,29/10/2023,9,03/01/2024,Nacional,No Aplica
+006,Cefalexina,2000,38,Medicamento antibiotico para perros y gatos,8,08/06/2023,30,08/10/2023,Nacional,No Aplica
+001,Enrofloxacina,1500,49,Medicamento antibiotico para perros y gatos,14,27/07/2023,35,27/12/2023,Nacional,No Aplica
+038,Amprolium,2500,23,Medicamento antiparasitario para pollos y gallinas,23,30/09/2023,0,,Nacional,No Aplica
+024,Carprofeno,2800,35,Medicamento antiinflamatorio no esteroideo para perros,10,15/08/2023,25,15/11/2023,Nacional,No Aplica
+027,Moxidectina,1900,69,Medicamento antiparasitario para perros y gatos,29,30/06/2023,40,30/10/2023,Nacional,No Aplica
+037,Oxitocina,3500,29,Medicamento para estimular la produccion de leche en vacas y ovejas,7,12/07/2023,22,12/11/2023,Nacional,No Aplica
+018,Furosemida,1800,69,Medicamento diuretico para perros y gatos,3,24/05/2023,66,24/09/2023,Nacional,No Aplica
+025,Pimobendan,15000,11,Medicamento para insuficiencia cardiaca en perros,1,30/05/2023,10,30/08/2023,Nacional,No Aplica
+015,Itraconazol,5000,14,Medicamento antifungico para perros y gatos,8,17/12/2023,6,12/04/2024,Nacional,No Aplica
+046,Perrolol,3000,4,Perrolol esta lol,4,15/08/2024,0,,Experimental,30/06/2023
+047,Perrolol 2,2500,42,Perrolol pero producto nacional,42,25/09/2026,0,,Nacional,No Aplica
+048,Crotolamo,5400,59,Medicamento Chistosito Wuajaja,59,15/03/2025,0,,Experimental,30/08/2023
